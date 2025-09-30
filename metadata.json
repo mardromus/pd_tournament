@@ -1,0 +1,5 @@
+{
+  "name": "Prisoner's Dilemma Tournament",
+  "description": "A web application for a modern take on the Prisoner's Dilemma tournament. Users can log in, choose a username, and submit code in C, C++, or Python to compete in a series of rounds with increasing complexity. The app features a dark, arcade-style theme and provides a results page with round analysis.",
+  "requestFramePermissions": []
+}
